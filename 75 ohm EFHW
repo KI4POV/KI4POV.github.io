@@ -3,12 +3,13 @@
 <body>
 <h1><a href="index.html">KI4POV</a></h1>
 <h2>75 Ohm 80 Meter EFHW Antenna</h2>
-<img src="pictures/CMOSVFO1.jpg">
-<img src="pictures/CMOSVFO2.jpg">
+
 <p>One of my long-running gripes is the price of coaxial cable. Even relatively low quality RG-58 is expensive. <s>GigaBucks</s> Gigaparts lists 500 ft of LMR400 for $750. That might be more than the value of my entire shack, test equipment and all. In the past, I have mostly avoided the use of coax in the past by feeding antennas directly from a tuner near a window, or by using homemade ladderline. My current shack/workbench is not condusive to ladderline though as it is an interior room in a metal building. Rather than take out a second mortgage for a roll of Italian M&P coax, I decided to go a different route.</p>
 
 <p>I have seen other hams discuss the use of RG6 coax in the past. RG6 is of course 75 ohm coax intended for cable TV use. It is relatively low loss, expecially compared to RG-58, and you can buy 500 ft from any big box hardware store for around $50. That was a major selling point for me. RG6 is not without issues though. The braid is often made of aluminum which means you can't solder to it. Becuase of this, PL-259 and SO-239 connectors are difficult if not impossible to attach. It is not designed to handle high power. I've seen reports of hams running up to 300 watts through it. It won't handle a kW amplifier, though. And, perhaps the most glaring issue is that it is 75 ohms. For receive, this is not generally an issue, but for transmit, this means that best case, your transmitter will see a mismatch of 1.5:1 if it expects a 50 ohm load. Many hams decide they can live with the slight mismatch, and use RG6 successfully by using F-type-to-UHF adapters.
 
-<p>Rather than live with the mismatch though, I realized that since I build my own gear, there was nothing stopping me from building my transmitters for 75 ohms instead of 50 ohms. Further, I could even standardize on the F-Type connector and cut out the adapters. 
+<p>Rather than live with the mismatch though, I realized that since I build my own gear, there was nothing stopping me from building my transmitters for 75 ohms instead of 50 ohms. Further, I could even standardize on the F-Type connector and cut out the adapters.</p>
+
+<p>I decided to build an 80 meter EFHW antenna fed with 75 ohm RG6 to use at my new operating position in the house. Feeding with coax means that I can largely ignore the obstructing metal walls and roof between my workbench and the antenna. It's a comprimise, but for the purposes of having an available signal source at the workbench, it is entirely satisfactory.</P>
 </body>
 </html>
